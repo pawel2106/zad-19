@@ -1,0 +1,33 @@
+#S1{
+        width: 200px;
+        height: 200px;
+        background-color: black;
+		margin: 10px auto 0;
+		margin-left: 40px
+		
+    }
+#S2{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(52, 49, 49) ;
+		margin: 10px auto 0;
+		margin-left: 40px
+		
+    }
+#S3{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(117, 111, 111) ;
+		margin: 10px auto 0;
+		margin-left: 40px	
+}
+#S4{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(185, 179, 179) ;
+		margin: 10px auto 0;
+		margin-left: 40px	
+}
+body{
+background:#f5f5dd
+}
